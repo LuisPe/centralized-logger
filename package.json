@@ -1,0 +1,20 @@
+{
+  "name": "centralized-logger",
+  "version": "1.0.4",
+  "description": "Centralized logger for API development with NodeJs and ExpressJs based on bunyan & bunyan-express-serializer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bunyan",
+    "express",
+    "log"
+  ],
+  "author": "Luis Pedro Toloy <luispedrotoloy@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-express-serializer": "^1.0.0"
+  }
+}
