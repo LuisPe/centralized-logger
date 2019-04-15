@@ -1,4 +1,4 @@
-# Centralized logger v1.0.4
+# Centralized logger v1.0.5
 
 Centralized logger for API development with NodeJs and ExpressJs, based on [bunyan](https://www.npmjs.com/package/bunyan) & [bunyan-express-serializer](https://www.npmjs.com/package/bunyan-express-serializer)
 

@@ -1,6 +1,6 @@
 {
   "name": "centralized-logger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Centralized logger for API development with NodeJs and ExpressJs based on bunyan & bunyan-express-serializer",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
   ],
   "author": "Luis Pedro Toloy <luispedrotoloy@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuisPe/centralized-logger"
+  },
   "dependencies": {
     "bunyan": "^1.8.12",
     "bunyan-express-serializer": "^1.0.0"
